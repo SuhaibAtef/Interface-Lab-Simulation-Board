@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\..\..\..\ss\MyProject.mcppi
+Project1=Q1.mcppi
+[ActiveProject]
+Index=1

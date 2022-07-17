@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\7SegmentTest\SevenSegmentTest.mcppi
+Project1=LCDTest.mcppi
+[ActiveProject]
+Index=0

@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo4 -N"C:\Users\Interface\Desktop\Interface labworks\Labwork2\sec1\q3\Q3.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Interface\Desktop\Interface labworks\Labwork2\sec1\q3\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Q3.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_C.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Q3.c
+warning: 37	1503	Result is not defined in function: 'show2Digits'	Q3.c
+diagnostics: 54	123	Compiled Successfully	Q3.c
+hint: 39	1164	Variable 'v2' has been eliminated by optimizer	Q3.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 15 (4%)  Free RAM (bytes): 337 (96%)	Used RAM (bytes): 15 (4%)  Free RAM (bytes): 337 (96%)
+hint: 0	1144	Used ROM (program words): 440 (5%)  Free ROM (program words): 7752 (95%)	Used ROM (program words): 440 (5%)  Free ROM (program words): 7752 (95%)
+diagnostics: 0	125	Project Linked Successfully	Q3.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Q3.mcppi' completed: 266 ms	 
+diagnostics: 0	103	Finished successfully: 27 Apr 2022, 13:09:49	Q3.mcppi

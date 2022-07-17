@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=TestCode\Testcodes.mcppi
+Project1=SwitchesTest.mcppi
+[ActiveProject]
+Index=1

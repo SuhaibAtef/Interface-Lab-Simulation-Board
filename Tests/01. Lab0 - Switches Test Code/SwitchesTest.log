@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo4 -N"C:\Users\suhai\OneDrive\Desktop\InterfaceLab\Tests\SwitchesTest.mcppi" -SP"E:\mikroC PRO for PIC\Defs\" -SP"E:\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\suhai\OneDrive\Desktop\InterfaceLab\Tests\" -SP"C:\Users\suhai\OneDrive\Desktop\InterfaceLab\Tests\SwitchesTest\" -IP"E:\mikroC PRO for PIC\Uses\P16\" "SwitchesTest.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	SwitchesTest.c
+diagnostics: 8	123	Compiled Successfully	SwitchesTest.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 1	1040	File 'SwitchesTest.cfg' not found	File 'SwitchesTest.cfg' not found
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
+hint: 0	1144	Used ROM (program words): 22 (1%)  Free ROM (program words): 8170 (99%)	Used ROM (program words): 22 (1%)  Free ROM (program words): 8170 (99%)
+diagnostics: 0	125	Project Linked Successfully	SwitchesTest.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'SwitchesTest.mcppi' completed: 234 ms	 
+diagnostics: 0	103	Finished successfully: 06 Jul 2022, 13:32:35	SwitchesTest.mcppi

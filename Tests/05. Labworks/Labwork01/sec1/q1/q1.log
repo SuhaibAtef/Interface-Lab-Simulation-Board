@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo4 -N"C:\Users\Interface\Desktop\Interface labworks\Labwork1\sec1\q1\q1.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Interface\Desktop\Interface labworks\Labwork1\sec1\q1\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "q1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	q1.c
+diagnostics: 20	123	Compiled Successfully	q1.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
+hint: 0	1144	Used ROM (program words): 49 (1%)  Free ROM (program words): 8143 (99%)	Used ROM (program words): 49 (1%)  Free ROM (program words): 8143 (99%)
+diagnostics: 0	125	Project Linked Successfully	q1.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'q1.mcppi' completed: 297 ms	 
+diagnostics: 0	103	Finished successfully: 26 Apr 2022, 12:42:35	q1.mcppi

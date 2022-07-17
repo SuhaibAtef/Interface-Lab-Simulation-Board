@@ -1,0 +1,7 @@
+main
+	ADC_Read
+		Delay_22us
+	Div_16X16_U
+	show2Digits
+		mapping
+	Mul_16X16_U
